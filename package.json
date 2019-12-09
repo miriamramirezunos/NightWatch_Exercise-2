@@ -1,0 +1,16 @@
+{
+  "name": "mirisnightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/nightwatch tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^78.0.1",
+    "nightwatch": "^1.2.4"
+  }
+}
